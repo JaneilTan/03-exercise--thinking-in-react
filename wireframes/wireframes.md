@@ -4,10 +4,10 @@
 
 <!-- TODO: Add wireframe -->
 
-![img](./wireframe.jpg)
+![img](./TODOapp.png)
 
 ## Component Hierarchy
 
 <!-- TODO: Add wireframe -->
 
-![img](./component-hierarchy.jpg)
+![img](./todo.png)
